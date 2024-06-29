@@ -43,7 +43,7 @@ Essa abordagem não apenas alinha a empresa X com as melhores práticas de merca
 
 
 ## Anexos
-[Planista demonstrativa de custos]() 
+[Planista demonstrativa de custos](https://github.com/Diego-de-Souza/desafio_aws/blob/main/planilha_custos_onprimissexcloud.xlsx) 
 
 Amazon Web Service, AWS. Documentação Economia de custos para empresas: Centro de informações sobre aspectos econômicos da Nuvem.2024.
 Disponivel em: https://aws.amazon.com/pt/economics/?sc_icampaign=acq_aws_takeover-1st-visit-bizval&sc_ichannel=ha&sc_icontent=awssm-evergreen-1st-visit&sc_iplace=ed&trk=ha_awssm-evergreen-1st-visit
